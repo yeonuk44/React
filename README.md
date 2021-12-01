@@ -11,12 +11,14 @@ React practice & environment
 ### Dependency install
 yarn add react react-dom next node-sass @zeit/next-sass axios
 yarn add --dev webpack@4
+
 ## Set
 - create package.json
 yarn init -y
 
 ## Test
-yarn 
+- client 내 index.js 파일이 있을 경우
+yarn run client
 
 ## Issue
 - node.js version up
