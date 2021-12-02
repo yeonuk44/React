@@ -28,3 +28,5 @@ ln -sf installed경로 active경로
 - next.js webpack version @5
 next.js에서 webpack @5는 stable이 떨어진다는 이슈로 인해 @4 사용
 - next는 pages 폴더와 index.js 파일이 반드시 포함되어야 한다.
+- yarn install 관련 이슈
+Error: yarn not installed 와 같은 메시지가 떴을 때, sudo npm install --global yarn 권한 설치를 진행해줘야 함.
