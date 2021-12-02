@@ -9,7 +9,8 @@ React practice & environment
 - webpack(version : @4)
 - 
 ### Dependency install
-yarn add react react-dom next node-sass @zeit/next-sass axios
+(2021-12-02 pixed, Next.js 11 Update) yarn add react react-dom next node-sass @zeit/next-sass axios 
+(after Next.js 11 update) yarn add react react-dom next sass axios 
 yarn add --dev webpack@4
 
 ## Set
